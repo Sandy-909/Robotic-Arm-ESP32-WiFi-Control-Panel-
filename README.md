@@ -34,7 +34,8 @@ No app installation — runs in any modern browser
 | M3 Screws & nuts | as required  | See CAD assembly  |
 | Jumper Wires | — | Used for signal and power distribution |
 ⚠️ Important: Make sure any MG995 you buy is listed as 180° positional, not "continuous rotation" or "for robot wheels" — these look identical but behave completely differently. See Lessons Learned below.
-Wiring
+
+### Wiring
 
 <img width="3000" height="2208" alt="circuit_image" src="https://github.com/user-attachments/assets/ac3f821e-5821-49bc-9368-658c93cad482" />
 
